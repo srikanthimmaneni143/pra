@@ -1,14 +1,10 @@
 #include<stdio.h>
 
-//I have added this line
-//
-//
-//
-//
-//
+
 int main()
 {
 
+	printf("Hello World\n");
 
 return 0;
 }
